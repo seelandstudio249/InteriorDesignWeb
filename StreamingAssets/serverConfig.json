@@ -1,0 +1,10 @@
+{
+    "playerJoinLimit": 6,
+    "coachJoinLimit": 1,
+    "chairLimit": 3,
+    "sofaLimit": 1,
+    "tableLimit": 1,
+    "ceilingFanLimit": 2,
+    "ceilingLampLimit": 4,
+    "wallPhotoFrameLimit": 3
+}
